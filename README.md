@@ -57,6 +57,12 @@ The parametric method uses a linear approximation, while the Monte Carlo method 
 
 ---
 
+## 📊 Results
+
+<img width="850" height="470" alt="image" src="https://github.com/user-attachments/assets/770c6cf0-36a4-40eb-bd26-92fffb7fff63" />
+
+---
+
 ## ⚙️ Prerequisites
 
 - Python 3.
@@ -97,5 +103,3 @@ VaR.ipynb
 ```
 
 Run the cells sequentially to download prices, estimate return parameters, simulate portfolio P&L, and calculate VaR.
-
-Before interpreting the parametric comparison, apply the sign correction described above.
